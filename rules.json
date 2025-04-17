@@ -1,8 +1,8 @@
 {
   "app-token": "33d57ade8c02dbc5a333db99ff9ae26a",
-  "static_param": "YDFWTJ3NuGAbF9PPSQoPBqdLTShf2Qht",
-  "prefix": "40076",
-  "suffix": "6800d9f6",
-  "checksum_constant": 503,
-  "checksum_indexes": [0,0,2,7,9,9,15,16,16,17,20,26,26,27,27,28,29,30,30,30,31,31,32,32,33,35,35,35,36,36,37,37]
+  "static_param": "UkBoRvNXEEgUq42IDfP867YM2u2QsTxG",
+  "prefix": "40089",
+  "suffix": "68013327",
+  "checksum_constant": -250,
+  "checksum_indexes": [0,0,0,1,4,6,7,9,10,10,11,12,12,13,14,16,17,18,18,20,22,23,23,27,28,28,31,34,35,38,38,39]
 }
